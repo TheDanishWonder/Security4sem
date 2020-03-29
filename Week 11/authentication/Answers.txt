@@ -1,0 +1,25 @@
+e) 
+	- Monitor the requests and responses between client and server.
+	- Explain how your Browser knows when to put up the login window (chrome://net-internals/#events)
+		Because of the security-contraint we sat in the web.xml file when we land on the designated page.
+	- Explain how your server knows that you are logged in for subsequent request
+		because the logged in user/admin has been put in the a session (which is by default 30 minutes)
+	- Copy the part that holds the Authorizations part and use the decode option on this link to comment what always must be 	  	  done as a supplement when using Basic Http (and all other) authentication
+		always encrypt your code.
+
+f) Reflect (write down) the pros & cons of using Basic Authentication, and the use cases where it (still) could be relevant
+	- pros 
+		its easy to set up and understand
+		the authenticator is pre-written so you dont need to do it yourself
+	- cons
+		not that secure
+		can easily be decoded.
+	school/learning projects.
+
+c) Reflect (write down) the pros & cons of using Form-based Authentication, and the use cases where it could be relevant
+	
+	pros
+		- edit your form to your desire
+	
+	cons
+		- string-password is being send with the request

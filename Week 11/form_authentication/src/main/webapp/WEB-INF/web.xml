@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+    <security-constraint>
+        <display-name>Constraint_admin</display-name>
+        <web-resource-collection>
+            <web-resource-name>Admin page</web-resource-name>
+            <description>Admin page</description>
+            <url-pattern>/admin.html</url-pattern>
+        </web-resource-collection>
+        <auth-constraint>
+            <description>Admin only</description>
+            <role-name>admin</role-name>
+        </auth-constraint>
+    </security-constraint>
+    <security-constraint>
+        <display-name>Constraint_user</display-name>
+        <web-resource-collection>
+            <web-resource-name>User page</web-resource-name>
+            <description>User page</description>
+            <url-pattern>/user.html</url-pattern>
+        </web-resource-collection>
+        <auth-constraint>
+            <description>User only</description>
+            <role-name>user</role-name>
+        </auth-constraint>
+    </security-constraint>
+    <login-config>
+        <auth-method>FORM</auth-method>
+        <realm-name>Login security</realm-name>
+        <form-login-config>
+            <form-login-page>/login.html</form-login-page>
+            <form-error-page>/error.html</form-error-page>
+        </form-login-config>
+    </login-config>
+    <security-role>
+        <description>User</description>
+        <role-name>user</role-name>
+    </security-role>
+    <security-role>
+        <description>Admin</description>
+        <role-name>admin</role-name>
+    </security-role>
+</web-app>
