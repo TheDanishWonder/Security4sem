@@ -11,7 +11,7 @@
 |Week 9<br/>24-02-2020|Tools, penetration testing  Week-5|[Hand-in 5](https://github.com/TheDanishWonder/Security4sem/tree/master/Week%209)|
 |Week 10<br/>02-03-2020|Network/network protocols and Security - 1 & 2  Week-6|[Hand-in 6](https://github.com/TheDanishWonder/Security4sem/tree/master/Week%2010)|
 |Week 11<br/>09-03-2020|A6+A9  Week-7|[Hand-in 7](https://github.com/TheDanishWonder/Security4sem/tree/master/Week%2011)|
-|Week 12<br/>16-03-2020|Understand, choose and use different login strategies Week-10|[Hand-in 8]|
+|Week 12<br/>16-03-2020|Understand, choose and use different login strategies Week-10|[Hand-in 8](https://github.com/TheDanishWonder/Security4sem/tree/master/Week%2011)|
 |Week 13<br/>23-03-2020|SSH, SSL, Certificates|[Hand-in 9](https://github.com/TheDanishWonder/Security4sem/tree/master/Week%2013)|
 |Week 14<br/>30-03-2020|Social Engineering, Denial-of-service attacks|NaN|
 |Week 15<br/>|PÅSKE|
