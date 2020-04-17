@@ -13,7 +13,7 @@
 |Week 11<br/>09-03-2020|A6+A9  Week-7|[Hand-in 7](https://github.com/TheDanishWonder/Security4sem/tree/master/Week%2011)|
 |Week 12<br/>16-03-2020|Understand, choose and use different login strategies Week-10|[Hand-in 8](https://github.com/TheDanishWonder/Security4sem/tree/master/Week%2011)|
 |Week 13<br/>23-03-2020|SSH, SSL, Certificates|[Hand-in 9](https://github.com/TheDanishWonder/Security4sem/tree/master/Week%2013)|
-|Week 14<br/>30-03-2020|Social Engineering, Denial-of-service attacks|NaN|
+|Week 14<br/>30-03-2020|Social Engineering, Denial-of-service attacks|[Hand-in-10](https://github.com/TheDanishWonder/Security4sem/tree/master/Week%2014)|
 |Week 15<br/>|PÅSKE|
 |Week 16<br/>13-04-2020|A1 SQL injection|NaN|
 |Week 17<br/>20-04-2020|A7  Cross-site Scripting (Hacking Contest)|NaN|
