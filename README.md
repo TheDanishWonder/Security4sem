@@ -15,8 +15,8 @@
 |Week 13<br/>23-03-2020|SSH, SSL, Certificates|[Hand-in 9](https://github.com/TheDanishWonder/Security4sem/tree/master/Week%2013)|
 |Week 14<br/>30-03-2020|Social Engineering, Denial-of-service attacks|[Hand-in-10](https://github.com/TheDanishWonder/Security4sem/tree/master/Week%2014)|
 |Week 15<br/>|PÅSKE|
-|Week 16<br/>13-04-2020|A1 SQL injection|NaN|
-|Week 17<br/>20-04-2020|A7  Cross-site Scripting (Hacking Contest)|NaN|
+|Week 16<br/>13-04-2020|A1 SQL injection|[Hand-in-11](https://github.com/TheDanishWonder/Security4sem/tree/master/Week%2016)|
+|Week 17<br/>20-04-2020|A7  Cross-site Scripting (Hacking Contest)|[Hand-in-12](https://github.com/TheDanishWonder/Security4sem/tree/master/Week%2017)|
 |Week 18<br/>27-04-2020|Hashes, Symmetric and asymmetric encryption, Digital Signatures and Certificates (part 2 of what started in week 9)|NaN|
 |Week 19<br/>04-05-2020|Exam Project period|None|
 |Week 20<br/>11-05-2020|Exam Project period|None|
