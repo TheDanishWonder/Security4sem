@@ -64,7 +64,7 @@ public class Sanitizer extends HttpServlet {
             out.println("<p>Use your browsers 'inspect' button to se the actual content of the string below</p>");
             out.print(plainUserData);
             out.println("<br/><br/>");
-            out.println(Encode.forHtml(encoded));
+            out.println(Encode.forHtml(encoded)); //Encode.forHtml
             out.println("<br/><br/>");
             out.println(safeHTML);
             out.println("<br/><br/>");
